@@ -9,12 +9,12 @@ body {
     line-height: 1.2;
     background-color: #f4f4f4;
     color: #333;
-    padding: 20px;
+    padding: 30px;
 }
 
 header {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 header h1 {
@@ -31,7 +31,7 @@ article.story {
     max-width: 1000px;
     margin: 0 auto;
     background-color: #fff;
-    padding: 30px;
+    padding: 40px;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
@@ -40,11 +40,11 @@ article.story {
     width: 100%;
     height: auto;
     border-radius: 8px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 article p {
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     font-size: 1.6em;
 }
 
